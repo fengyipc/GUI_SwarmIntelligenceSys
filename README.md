@@ -1,4 +1,4 @@
-# SwarmIntelligenceSys
+# SwarmIntelligenceSystem
 
 这是一个集Web前端实时控制、服务器与多智能体无线通信、多智能体集群调度、嵌入式系统开发于一身的综合系统平台。
 

@@ -1,5 +1,15 @@
 # SwarmIntelligenceSys
-Swarm intelligence robots system.
+
+这是一个集Web前端实时控制、服务器与多智能体无线通信、多智能体集群调度、嵌入式系统开发于一身的综合系统平台。
+
+### 我的工作
+1. 以TCP/UDP协议为基础，通过上层封装实现具有实时性、高可靠性的多播网络通信模块。
+2. 完成服务器MySQL数据库的设计与集群控制端SQL读写访问。
+3. 设计多智能体集群编队任务的多线程算法控制模块，并完成大部分代码的编写与调优。
+
+开发环境： Windows 10 、树莓派Linux
+开发语言： Python 3
+
 ### 文件功能
 - Comunication文件：里面实现数据库所在终端与集群机器人之间进行TCP，UDP多播通信（python）。
 - css文件：GUI的样式文件。
